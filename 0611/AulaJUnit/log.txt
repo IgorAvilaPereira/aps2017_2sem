@@ -1,0 +1,4 @@
+Antes de todo metodo de teste
+testValida
+Testando o valida...
+true == true
